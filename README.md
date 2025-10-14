@@ -69,12 +69,6 @@ Whether it's streamlining legacy processes or connecting disparate systems, I th
       <td>Improved data accuracy and visibility for HR</td>
     </tr>
     <tr>
-      <td>API Integration for KSDT CPA</td>
-      <td>Connected disparate systems to streamline data flow across departments</td>
-      <td>Postman, Power Automate, JSON, SharePoint</td>
-      <td>Saved hours of manual data entry per week</td>
-    </tr>
-    <tr>
       <td>Power BI Reporting Automation</td>
       <td>Automated generation and distribution of financial reports</td>
       <td>Power BI, Alteryx, Outlook</td>
@@ -83,6 +77,6 @@ Whether it's streamlining legacy processes or connecting disparate systems, I th
   </tbody>
 </table>
 
-**Learn more about me**
+**Check out my Linkedin**
 
 <a href="https://www.linkedin.com/in/cameronholt732/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white" /></a></li>
