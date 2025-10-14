@@ -1,6 +1,7 @@
-**Hi there, I'm Cameron Holt**
 
 **About Me**
+
+Hi there, I'm Cameron Holt.
 
 I'm an Integration Engineer based in the Tampa Bay area. I hold two Bachelor's degrees—one in Finance and one in Accounting—from the University of South Florida, where I’m also an incoming MBA candidate. I'm passionate about eliminating inefficiencies through automation. There's nothing I enjoy more than asking, "Why do we do it this way?"—and then building a smarter, automated solution.
 
