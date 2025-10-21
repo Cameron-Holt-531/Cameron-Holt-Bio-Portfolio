@@ -61,7 +61,7 @@ Whether it's streamlining legacy processes or connecting disparate systems, I th
       <td>NetSuite Client Import Automation</td>
       <td>Replaced manual import with automated flow using n8n and Power Automate</td>
       <td>n8n, Power Automate, JavaScript, NetSuite API</td>
-      <td>Reduced processing time from 15–20 minutes to 45 seconds</td>
+      <td>Reduced client import processing time from 15–20 minutes to 45 seconds</td>
     </tr>
     <tr>
       <td>BambooHR vs Entra ID Dashboard</td>
@@ -71,7 +71,7 @@ Whether it's streamlining legacy processes or connecting disparate systems, I th
     </tr>
     <tr>
       <td>Power BI Reporting Automation</td>
-      <td>Automated generation and distribution of financial reports</td>
+      <td>Automated reporting to Power BI for all automations; it includes time saved, estimated dollar amount saved, and efficiency ratios.</td>
       <td>Power BI, Alteryx, Outlook</td>
       <td>Enabled real-time insights and reduced reporting lag</td>
     </tr>
