@@ -63,6 +63,12 @@ Whether it's streamlining legacy processes or connecting disparate systems, I th
       <td>n8n, Power Automate, JavaScript, NetSuite API</td>
       <td>Reduced client import processing time from 15–20 minutes to 45 seconds</td>
     </tr>
+     <tr>
+      <td>Audit Independence Check</td>
+      <td>Built automated independence check for all KSDT Employees</td>
+      <td>Sharepoint Lists, Power Automate</td>
+      <td>Eliminated the manual outreach process by implementing a Microsoft Approval workflow. Each employee was prompted to confirm their independence status, and responses were automatically recorded in a SharePoint database</td>
+    </tr>
     <tr>
       <td>BambooHR vs Entra ID Dashboard</td>
       <td>Built automated email dashboard comparing employee data across systems</td>
