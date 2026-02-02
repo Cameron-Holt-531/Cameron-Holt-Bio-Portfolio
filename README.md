@@ -3,7 +3,7 @@
 
 Hi there, I'm Cameron Holt.
 
-I'm an Automation / Integration Engineer based in the Tampa Bay area. I hold two Bachelor's degrees—one in Finance and one in Accounting—from the University of South Florida, where I’m also an incoming MBA candidate. I'm passionate about eliminating inefficiencies through automation. There's nothing I enjoy more than asking, "Why do we do it this way?"—and then building a smarter, automated solution.
+I'm an Automation / Integration Engineer based in the Tampa Bay area. I hold two Bachelor's degrees—one in Finance and one in Accounting from the University of South Florida, where I’m also an incoming MBA candidate. I'm passionate about eliminating inefficiencies through automation. There's nothing I enjoy more than asking, "Why do we do it this way?"—and then building a smarter, automated solution.
 
 My career foundation was forged during five impactful years at PwC, where I held roles spanning Audit, Product Management, and UAT Facilitation. There, I developed a deep appreciation for well-tested applications and the importance of cross-functional collaboration. I carried that mindset into my most recent role at KSDT CPA, a top 150 public accounting firm, where I served as an Automation / Integration Engineer. 
 
