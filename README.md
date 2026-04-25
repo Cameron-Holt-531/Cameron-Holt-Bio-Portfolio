@@ -21,7 +21,7 @@ Whether it's streamlining legacy processes or connecting disparate systems, I th
   <tbody>
     <tr>
       <td>Languages & Scripting</td>
-      <td>Python (Pandas, Streamlit), JavaScript, JSON</td>
+      <td>Python (Pandas, Streamlit), SQL (SQLite, SuiteQL), JavaScript, JSON</td>
     </tr>
     <tr>
       <td>Automation & API Integration</td>
@@ -29,7 +29,7 @@ Whether it's streamlining legacy processes or connecting disparate systems, I th
     </tr>
     <tr>
       <td>Development Tools</td>
-      <td>Visual Studio Code, Streamlit Cloud,  Git/GitHub</td>
+      <td>Visual Studio Code, Claude Code, Git/GitHub Streamlit Cloud</td>
     </tr>
     <tr>
       <td>Data Analytics & Visualization</td>
