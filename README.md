@@ -29,7 +29,7 @@ Whether it's streamlining legacy processes or connecting disparate systems, I th
     </tr>
     <tr>
       <td>Development Tools</td>
-      <td>Visual Studio Code, Claude Code, Git/GitHub Streamlit Cloud</td>
+      <td>Visual Studio Code, Claude Code, Git/GitHub, Streamlit Cloud</td>
     </tr>
     <tr>
       <td>Data Analytics & Visualization</td>
