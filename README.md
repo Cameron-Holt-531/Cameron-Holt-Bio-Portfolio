@@ -50,7 +50,7 @@ Whether it's streamlining legacy processes or connecting disparate systems, I th
   </tbody>
 </table>
 
-**Notable Career Projects**
+**Notable AI and Automation Projects**
 <table border="1" cellpadding="6" cellspacing="0">
   <thead>
     <tr>
